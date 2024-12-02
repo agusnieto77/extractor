@@ -240,7 +240,7 @@ JSON_SCHEMA = {
                 }
               }
             },
-            "required": ["cargo_merchant_name", "cargo", "passengers", "in_ballast"],
+            "required": ["cargo_merchant_name", "cargo"],
             "additionalProperties": False
           }
         },
@@ -253,7 +253,7 @@ JSON_SCHEMA = {
           "type": "boolean",
           "description": "Define se se mencion que la embarcación está 'en lastre' [True | False]",
           "nullable": True
-        }
+        },
         "quarantine": {
           "type": "string",
           "description": "Información relativa a la existencia de condiciones especiales de la llegada motivadas por circunstancias sanitarias que imponen la cuarentena.",

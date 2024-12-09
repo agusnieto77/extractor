@@ -1,0 +1,56 @@
+[
+  {
+    "name_txt": "bue_lp_01.txt",
+    "fecha_nota": "bue_lp_01.",
+    "metadata_entrada": "Fecha no encontrada",
+    "dia": "",
+    "fecha_entrada": null,
+    "entrada": "Fecha de arribo: Fecha desconocida | Fecha de arribo: 4 de enero de 1880 | Pernambuco el 23 de Dbre berg gta portugues Gomez de Castro 147 tons cap Goncalvez à J Cibils con: 40 pip caña, 50 bcas azúcar moscavada 975 bcas 75 1[4 azúcar blanca.",
+    "data": {
+      "travel_departure_date": "1879-12-23",
+      "travel_arrival_date": "1880-01-04",
+      "travel_duration_value": null,
+      "travel_duration_unit": null,
+      "travel_arrival_moment": null,
+      "travel_departure_port": "Pernambuco",
+      "travel_port_of_call_list": [],
+      "travel_arrival_port": "Buenos Aires",
+      "ship_type": "berg gta",
+      "ship_name": "Gomez de Castro",
+      "ship_tons_capacity": 147,
+      "ship_tons_units": "tons",
+      "ship_flag": "portugues",
+      "master_role": "cap",
+      "master_name": "Goncalvez",
+      "ship_agent_name": null,
+      "crew_number": null,
+      "cargo_list": [
+        {
+          "cargo_merchant_name": "J Cibils",
+          "cargo": [
+            {
+              "cargo_quantity": 40,
+              "cargo_unit": "pip",
+              "cargo_commodity": "caña"
+            },
+            {
+              "cargo_quantity": 50,
+              "cargo_unit": "bcas",
+              "cargo_commodity": "azúcar moscavada"
+            },
+            {
+              "cargo_quantity": 975,
+              "cargo_unit": "bcas",
+              "cargo_commodity": "azúcar blanca"
+            }
+          ]
+        }
+      ],
+      "passengers": null,
+      "in_ballast": false,
+      "quarantine": null,
+      "forced_arrival": null,
+      "obs": "75 1[4"
+    }
+  }
+]

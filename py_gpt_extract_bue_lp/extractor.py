@@ -2,7 +2,7 @@ from openai import OpenAI
 import os
 import json
 from config import MODELO, JSON_SCHEMA, MODEL_CONFIG
-from utils import create_messages
+from common import create_messages
 
 class ShipInfoExtractor:
     def __init__(self):
